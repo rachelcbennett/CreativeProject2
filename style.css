@@ -1,0 +1,57 @@
+
+
+*{
+    font-family: 'Amatic SC', cursive;
+}
+
+h2{
+    font-family: 'Amatic SC', cursive;
+    text-align: center;
+}
+
+p{
+    font-family: 'Josefin Slab', sans;
+}
+
+li{
+    font-family: 'Josefin Slab', sans;
+}
+input{
+    border-radius: 20px;
+    font-size: x-large;
+    font-family:'Josefin Slab', sans;
+}
+
+button{
+    border-radius: 20px;
+}
+
+label{
+    font-size: x-large;
+}
+
+h1{
+    text-align: center;
+}
+#recipe{
+    background-color:  rgb(224, 172, 59);
+    padding:20px;
+    border-radius: 20px;
+}
+
+#menu{
+    background-color:rgb(224, 172, 59);
+}
+
+
+
+.header_images{
+
+    width:24.5%;
+    padding:0px;
+    margin:0px;
+}
+
+#logo{
+    padding:20px
+}
